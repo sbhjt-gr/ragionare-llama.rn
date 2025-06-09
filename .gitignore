@@ -1,4 +1,6 @@
 # OSX
+
+CODEBASE.md
 #
 .DS_Store
 
@@ -28,6 +30,7 @@ DerivedData
 *.ipa
 *.xcuserstate
 project.xcworkspace
+
 
 # Android/IJ
 #
